@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why did you decide to learn software development?"
-date:       2018-05-03 20:10:59 +0000
+date:       2018-05-03 16:11:00 -0400
 permalink:  why_did_you_decide_to_learn_software_development
 ---
 
@@ -17,7 +17,7 @@ But I want to tell all women that stay focused on what you want to do and believ
 
 I stepped out and I got an opportunity to work as HR for a staffing company and after gaining experience from my job,
 
-I started my own Consulting company. While I was building website for my company I was realised how rusty my coding skills were.  For the growth of the company, building my development skills became important. 
+I started my own Consulting company. While I was building website for my company I realised how rusty my coding skills were.  For the growth of the company, building my development skills became important. 
 
 I thought that this is the time I can upgrade my technical skills. Then I started learning various online resources and soon was overwhelmed by the changes in technology and was thinking it will take me forever to learn so many new skills. 
 
