@@ -13,7 +13,7 @@ I made three new project partners, Google search , Github and STACKOVER FLOW and
 
 You can have them too..
 
-So, Lets get started ..........
+So, Lets get started.
 
 
 **1. Follow Avi's videos and examples to understand how to build the project with bundler. **
