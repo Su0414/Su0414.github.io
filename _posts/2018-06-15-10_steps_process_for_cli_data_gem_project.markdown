@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "10 steps process for CLI Data GEM Project "
-date:       2018-06-15 15:53:28 +0000
+date:       2018-06-15 11:53:29 -0400
 permalink:  10_steps_process_for_cli_data_gem_project
 ---
 
