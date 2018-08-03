@@ -23,7 +23,9 @@ I would like to share with you some of the **important concepts** and **good rea
 * It is a Rack-based (Ruby web server interface) web application framework. 
 * Rack based means it can fit into any Rack-based application stack,including Rails. 
 * Sinatra provides a minimal interface for writing web applications in Ruby
-[https://the-eye.eu/public/Books/IT%20Various/sinatra_up_and_running.pdf](http://)
+
+Good Book ....
+[Sinatra Up and Running](https://the-eye.eu/public/Books/IT%20Various/sinatra_up_and_running.pdf)
 
 
 
@@ -33,8 +35,10 @@ The **Model-View-Controller (MVC)** is an architectural pattern that separates a
 * MVC enables logical grouping of related actions on a controller together. 
 * The views for a specific model are also grouped together.
 * Models can have multiple views.
-[https://the-eye.eu/public/Books/IT%20Various/jump_start_sinatra.pdf](http://)
-[https://github.com/spbooks/SINATRA1](http://)
+
+Good Book....with code on github
+[Jumpstart Sinatra](https://the-eye.eu/public/Books/IT%20Various/jump_start_sinatra.pdf)
+[Github Code for Jumstart Sinatra](https://github.com/spbooks/SINATRA1)
 
 
 
@@ -45,23 +49,24 @@ A technique for converting data between incompatible type systems using object-o
 
 **REST**
 Representational State Transfer (REST) 
-[https://en.wikipedia.org/wiki/Representational_state_transfer](http://)
-[https://learn.co/tracks/full-stack-web-development-v6/sinatra/activerecord/sinatra-restful-routes](http://)
 
+[What is REST?](https://en.wikipedia.org/wiki/Representational_state_transfer)
+[Sinatra Restful Routes](https://learn.co/tracks/full-stack-web-development-v6/sinatra/activerecord/sinatra-restful-routes)
 
 
 **Activerecord Associations** 
 Active record pattern is an architectural pattern found in software that stores in-memory object data in relational databases.
-When designing your models, you need to define relationships like has_many, belongs_to , has_many_through or many to many. This link provides these details with examples
-[https://guides.rubyonrails.org/association_basics.html](http://)
+When designing your models, you need to define relationships like has_many, belongs_to , has_many_through or many to many. 
+
+This link provides these details with examples
+[Associations Basics](https://guides.rubyonrails.org/association_basics.html)
 
 **ActiveRecord Validations** 
 Validation plays important role in this application. 
-Activerecord has detail guide for this , Must read while implementing validations
-[https://guides.rubyonrails.org/active_record_validations.html](http://)
+Activerecord has detail guide for this , 
 
-
-
+Must read while implementing validations
+[Active Record Validations](https://guides.rubyonrails.org/active_record_validations.html)
 
 
 **Happy Coding !!**
