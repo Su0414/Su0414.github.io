@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Rails Portfolio Project"
-date:       2018-09-21 19:12:28 +0000
+date:       2018-09-21 15:12:29 -0400
 permalink:  rails_portfolio_project
 ---
 
 
-My rails CRUD application is a **Project management ** application, 
+My rails CRUD application is a **Project management  application**, 
 
 Main purpose of building this application was to help small or medium size software companies to manages their client projects and associate their employees to their client projects.
 
@@ -34,10 +34,11 @@ User sign up and login through social media was complex as I had to provide admi
 I experimented with different Omniauth strategies like twitter and github. 
 
 Following links were very useful read...
+[Twitter Link](https://developer.twitter.com/en/docs/basics/authentication/overview/3-legged-oauth.html)
 
-https://developer.twitter.com/en/docs/basics/authentication/overview/3-legged-oauth.html
+[Github Link](https://github.com/omniauth/omniauth-github)
 
-https://github.com/omniauth/omniauth-github
+
 
 **Nested Routes**
 
@@ -90,9 +91,9 @@ resources :users do
 Run **rails routes** into rails console to see more detail route paths. 
 Example of nested routes
 
-1. users/1/tasks, 
+1. users/1/tasks
 
-2. projects/1/tasks/1/complete etc...
+2. projects/1/tasks/1/complete 
 
 
 For example , If you create 
