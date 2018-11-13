@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "AMS and Rails/JS project"
-date:       2018-11-13 01:49:57 +0000
+date:       2018-11-12 20:49:58 -0500
 permalink:  ams_and_rails_js_project
 ---
 
@@ -198,8 +198,7 @@ your project flow from controller to your views.
 
 I really enjoyed doing this project, hope this was fun and helpful too. 
 
-**Happy Coding !! **
-
+**Happy Coding**   
 
 
 
