@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "ShopDrop, ReactJS/Redux Application"
-date:       2018-12-10 04:39:19 +0000
+date:       2018-12-09 23:39:20 -0500
 permalink:  shopdrop_reactjs_redux_application
 ---
 
@@ -16,6 +16,12 @@ The main motivation behind my website **SHOPDROP** was presenting a **catalog of
 designed by famous Indian fashion brands. These brands provide exclusive collections for customers to wear on special occassion like Wedding, Anniversaries, Birthday Parties and Festivals.
 Customers can view a wide range of collection from traditional to Indo Western outfits.
 Many of these poster dresses can be made available to customers outside India through this shopping website. 
+
+Some of the features that I build in my application so far are , 
+customers can view the products catalog, 
+they can add new products , delete expired products, 
+they can sort products by price and 
+also they can add and remove items from shopping bag cart.
 
 This section of cirriculum was huge and 
 here I shall talk only about the basic setup required for project.
