@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "All you need to know about - React / Redux State"
-date:       2018-12-14 05:53:15 +0000
+title:      "Differences between React State and Redux State"
+date:       2018-12-14 00:53:15 -0500
 permalink:  all_you_need_to_know_about_-_react_redux_state
 ---
 
